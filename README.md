@@ -1,4 +1,5 @@
 # Web-Crawled-Corpus-for-English-Chinese-NMT
+<<<<<<< HEAD
 We have built our own KEKE corpus. There are 341K total pairs of sentences.
 
 If you would like to obtain all the data, please contact the following email address while ensuring that it is for your own use only and for research purposes only.
@@ -6,6 +7,15 @@ If you would like to obtain all the data, please contact the following email add
 KEKE is distributed under the following license.
 
 Terms of Use for KEKE
+=======
+
+We have built our own WCC-EC corpus. There are 341K total pairs of sentences.
+
+If you would like to obtain all the data, please contact the following email address while ensuring that it is for your own use only and for research purposes only.
+WCC-EC is distributed under the following license.
+
+Terms of Use for WCC-EC
+>>>>>>> f3f60076cad4e203bfefbd5efd3fe1c36d39f2b7
 
 We will provide KEKE data (Hereinafter referred to as "this data.") subject to your acceptance of these Terms of Use. We assume that you have agreed to these Terms of Use when you start using this data (including downloads).
 
@@ -21,9 +31,18 @@ TAKE DOWN
 
 If we include your copyrighted works and you want us to delete it, please contact us with the following information.
 
+<<<<<<< HEAD
 Your name, affiliation and E-mail address. Detailed information of your copyrighted works. How we can locate your work in our data such as your domain name. CONTACT
 
 For any inquiries about KEKE, please contact us by email.
+=======
+Your name, affiliation and E-mail address.
+Detailed information of your copyrighted works.
+How we can locate your work in our data such as your domain name.
+CONTACT
+
+For any inquiries about WCC-EC, please contact us by email.
+>>>>>>> f3f60076cad4e203bfefbd5efd3fe1c36d39f2b7
 
 wccjc.contact at gmail.com
 
