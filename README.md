@@ -6,10 +6,6 @@ If you would like to obtain all the data, please contact the following email add
 
 WCC-EC is distributed under the following license.
 
-If you would like to obtain all the data, please contact the following email address while ensuring that it is for your own use only and for research purposes only.
-
-WCC-EC is distributed under the following license.
-
 Terms of Use for WCC-EC
 
 We will provide WCC-EC data (Hereinafter referred to as "this data.") subject to your acceptance of these Terms of Use. We assume that you have agreed to these Terms of Use when you start using this data (including downloads).
